@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Jekyll 설치"
 date:   2017-03-30 12:38:59 +0900
 categories: jekyll update
 ---
+어렵게 `github`를 이용한 블로그 셋팅에 성공했네요. 
+메뉴얼에 나온것처럼 쉽게 하지는 못했습니다. 
+`github`을 익숙하게 잘 쓰지 못해서 일수도 있고 
+`Ruby`의 `gem`에 익숙하지 못한 것일수도 있고 
+암튼 한참 걸렸네요. 
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
